@@ -1,6 +1,7 @@
 # AvaloniaILSpy ![Build AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy/workflows/Build%20AvaloniaILSpy/badge.svg?branch=master)
 
 This is cross-platform version of [ILSpy](https://github.com/icsharpcode/ILSpy) built with [Avalonia](https://github.com/AvaloniaUI/Avalonia).
+Bump.
 
 ![](https://github.com/icsharpcode/AvaloniaILSpy/raw/master/preview.png)
 
